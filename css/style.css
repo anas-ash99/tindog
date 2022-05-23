@@ -125,15 +125,26 @@ h2{
 #cta {
   text-align: center;
   padding-bottom: 3%;
-  background-color: #ef8172;
+  background-color: #ff4c68;
+  padding: 5%;
+}
+
+.h3-cta{
+  width: 10rem;
 }
 #footer {
   text-align: center;
-  background-color: #ef8172;
+  background-color: #fff;
   margin-bottom: 0;
+  padding: 3%;
 }
 .Download-button1 {
   margin-top: 1%;
+}
+.social-media{
+   margin-left: 0.7%;
+   margin-right: 0.7%;
+   margin-bottom: 1.5%;
 }
 
 
